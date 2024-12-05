@@ -1,6 +1,6 @@
 # Email Subject Line Analyzer
 
-A simple AI-powered email subject line analyzer using Pydantic-AI. This tool analyzes email subject lines considering sender context and provides structured insights about priority, sentiment, and required actions.
+A simple AI-powered email subject line analyzer using Pydantic-AI with agent structure. This tool analyzes email subject lines considering sender context and provides structured insights about priority, sentiment, and required actions.
 
 ## Features
 - Context-aware email subject analysis

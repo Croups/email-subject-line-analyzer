@@ -15,4 +15,4 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-This project is inspired by [Pydantic-AI](https://github.com/daveebbelaar/pydantic-ai-tutorial) example by Dave Ebbelaar. Special thanks for the concepts and implementation ideas.
+This project is inspired by [Pydantic-AI-Tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) example by Dave Ebbelaar. Special thanks for the concepts and implementation ideas.

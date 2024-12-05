@@ -12,6 +12,7 @@ A simple AI-powered email subject line analyzer using Pydantic-AI. This tool ana
 ## Installation
 ```bash
 pip install -r requirements.txt
+''
 
 ## Credits
 This project is inspired by [Pydantic-AI](https://github.com/daveebbelaar/pydantic-ai-tutorial) example by Dave Ebbelaar. Special thanks for the concepts and implementation ideas.
